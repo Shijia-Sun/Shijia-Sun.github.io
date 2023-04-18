@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: USTC and <a href='https://ions.berkeley.edu/'>UC Berkeley</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
