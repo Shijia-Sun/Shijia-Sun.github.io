@@ -2,13 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: Student of <a href="sunshijia[AT]mail[Dot]ustc[Dot]edu[Dot]cn" target="_blank">USTC</a> and <a href="sunshijia[AT]berkeley[Dot]edu" target="_blank">UC Berkeley</a>
+subtitle: Student of USTC and UC Berkeley
 
 profile:
   align: right
   image: shijia_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: 
+  address: >
+  contact: sunshijia[AT]mail[Dot]ustc[Dot]edu[Dot]cn, or 
+           sunshijia[AT]berkeley[Dot]edu
 
 news: false  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -16,8 +18,5 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-# Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I got my Bachelor of Science degree at University of Science and Technology of China in 2022, and was admitted to Ph.D. program at UC Berkeley in Fall 2022. Due to visa problems, I am expect to enroll in UC Berkeley in 2023 Fall.
 
-# Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-# Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
