@@ -32,7 +32,7 @@
   type: time_table
   contents:
     - title: Visiting Researcher
-      institution: University
+      institution: University of Science and Technology of China, Hefei, China
       year: April 2023 - 
       description:
         - Description 1.
@@ -42,32 +42,28 @@
             - Sub-description 1.
             - Sub-description 2.
 
-    - title: Visiting Researcher
+    - title: Graduate Student Researcher
       institution: University of California at Berkeley, California, U.S.
-      year: Sep 2022 - Present
+      year: Aug 2022 - Present
       description:
         - Description 1.
         - Description 2.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Undergraduate Student Research Assistant
+      institution: University of Science and Technology of China, Hefei, China
+      year: Sep 2020 - Jun 2022
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Visiting Student
+      institution: University of California at Berkeley, California, U.S.
+      year: Aug 2021 - Nov 2021
       description:
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+# - title: Open Source Projects
+#   type: time_table
+#  contents:
+#    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#      year: 2015-now
+#      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
