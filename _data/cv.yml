@@ -17,7 +17,7 @@
       description:
         - Description 1.
         - Description 2.
-    - title: Bachelor of Science Degree
+    - title: Bachelor of Science Degree (Honorary Title)
       institution: University of Science and Technology of China, Hefei, China
       year: 2018-2022
       description:
@@ -68,21 +68,27 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Outstanding Graduate Title (Top 5% in USTC)
+    - year: 2021
       items: 
-        - Max Planck Medal
+        - Honorary Title of Outstanding Student (Top 5% in USTC)
+    - year: 2019
+      items: 
+        - Gold Award, Outstanding Student Scholarship (Top 5% in School of Physical Sciences, USTC)
+    - year: 2019
+      items: 
+        - Excellent Paper in Freshman Seminar (Top 5% in USTC)
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Atomic, Molecular and Optical Physics
       items: 
-        - Description 1.
-        - Description 2.
+        - Trapped ions
+        - Cold hybrid ion-atom system
+        - Cold atoms and molecules
     - title: Topic 2.
       items:
         - Description 1.
@@ -91,4 +97,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Boxing, Swimming, Skiing, Reading novels, etc.
