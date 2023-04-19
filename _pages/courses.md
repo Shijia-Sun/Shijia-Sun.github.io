@@ -1,12 +1,33 @@
 ---
 layout: page
 permalink: /course/
-title: Courses
-description: Materials for courses you taught. Replace this text with your description.
+title: Learned
+description:  Courses/Topics that I have learned. 
 nav: true
 nav_order: 2
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+**Up to now, I have get score 93 or above in 20 physics courses, including 3 graduate courses. To see my major courses grades, click [here](https://shijia-sun.github.io/course/grades/).**
 
-Organize your courses by years, topics, or universities, however you like!
+
+
+### Selected Learned Courses/Topics
+
+#### Topics
+
+##### Book: Advances in Atomic Physics: An Overview
+
+
+
+
+
+
+
+#### Courses
+
+##### Modern Atomic Physics
+
+
+
+
+
