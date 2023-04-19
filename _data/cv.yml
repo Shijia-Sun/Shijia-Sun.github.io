@@ -2,18 +2,24 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Shijia Sun
     - name: Date of Birth
-      value: 14th March 1879
+      value: Dec 2000
     - name: Languages
-      value: English, German
+      value: English, Chinese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. Student in Physics Department
+      institution: University of California at Berkeley, California, U.S.
+      year: 2022-
+      description:
+        - Description 1.
+        - Description 2.
+    - title: Bachelor of Science Degree
+      institution: University of Science and Technology of China, Hefei, China
+      year: 2018-2022
       description:
         - Description 1.
         - Description 2.
@@ -21,19 +27,13 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Visiting Researcher
+      institution: University
+      year: April 2023 - 
       description:
         - Description 1.
         - Description 2.
@@ -41,9 +41,10 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+
+    - title: Visiting Researcher
+      institution: University of California at Berkeley, California, U.S.
+      year: Sep 2022 - Present
       description:
         - Description 1.
         - Description 2.
