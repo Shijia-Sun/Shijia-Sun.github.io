@@ -104,6 +104,17 @@
         - Description 1.
         - Description 2.
 
+- title: Skills & Languages
+  type: nested_list
+  contents:
+    - title: Softwares 
+      items: 
+        - Mathematica, Matlab, COMSOL, Solidworks, Eagle, Latex, Lyx, Markdown
+
+    - title: Programming 
+      items:
+        - C, Python, Julia
+
 - title: Other Interests
   type: list
   contents:
