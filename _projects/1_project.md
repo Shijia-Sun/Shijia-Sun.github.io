@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A novel hybrid trap for ion-atom mixture
+title: Hybrid Trap for Ion-atom Mixture
 description: a project with a background image
 img: assets/img/hybrid.png
 importance: 1

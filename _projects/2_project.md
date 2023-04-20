@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
+title: Rotating Three Ions
 description: a project with a background image
-img: assets/img/3.jpg
+img: assets/img/three_ion.png
 importance: 2
 category: work
 ---
