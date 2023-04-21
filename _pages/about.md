@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-## My personal website is still under construction
+## Thanks for visiting! This website is still under construction...
 
 I got my Bachelor of Science degree in Optics track at University of Science and Technology of China in 2022, and get the offer to Ph.D. program at UC Berkeley in 2022 Fall with full funding package. 
 
