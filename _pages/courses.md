@@ -31,7 +31,7 @@ by Claude Cohen-Tannoudji and David Guéry-Odelin
 
 Textbook: Atomic Physics by C.J. Foot
 
-My learning notes [PDF](https://shijia-sun.github.io/assets/pdf/amp_note.pdf).
+My learning notes [PDF](https://shijia-sun.github.io/assets/pdf/map_note.pdf).
 
 ##### Fundamental of Modern Optics (98)
 
