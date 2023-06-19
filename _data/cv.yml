@@ -1,121 +1,121 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Shijia Sun
-    - name: Date of Birth
-      value: Dec 2000
-    - name: Languages
-      value: English, Chinese
+# - title: General Information
+#   type: map
+#   contents:
+#     - name: Full Name
+#       value: Shijia Sun
+#     - name: Date of Birth
+#       value: Dec 2000
+#     - name: Languages
+#       value: English, Chinese
 
-- title: Education
-  type: time_table
-  contents:
-    - title: Ph.D. Student in Physics Department
-      institution: University of California at Berkeley, California, U.S.
-      year: 2022-
-      description:
-        - Description 1.
-        - Description 2.
-    - title: Bachelor of Science Degree (Honorary Title)
-      institution: University of Science and Technology of China, Hefei, China
-      year: 2018-2022
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-
-- title: Research Experience
-  type: time_table
-  contents:
-    - title: Visiting Researcher
-      institution: University of Science and Technology of China, Hefei, China
-      year: April 2023 - 
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-
-    - title: Graduate Student Researcher
-      institution: University of California at Berkeley, California, U.S.
-      year: Aug 2022 - Present
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Undergraduate Student Research Assistant
-      institution: University of Science and Technology of China, Hefei, China
-      year: Sep 2020 - Jun 2022
-
-    - title: Visiting Student
-      institution: University of California at Berkeley, California, U.S.
-      year: Aug 2021 - Nov 2021
-      description:
-
-- title: Teaching Experience
-  type: time_table
-  contents:
-    - title: Teaching Assistan to Atomic Physics
-      institution: University of Science and Technology of China, Hefei, China
-      year:  Feb 2021 - Jul 2021
-      description:
-        - Description 1.
-        - Description 2.
-
-# - title: Open Source Projects
+# - title: Education
 #   type: time_table
-#  contents:
-#    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-#      year: 2015-now
-#      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+#   contents:
+#     - title: Ph.D. Student in Physics Department
+#       institution: University of California at Berkeley, California, U.S.
+#       year: 2022-
+#       description:
+#         - Description 1.
+#         - Description 2.
+#     - title: Bachelor of Science Degree (Honorary Title)
+#       institution: University of Science and Technology of China, Hefei, China
+#       year: 2018-2022
+#       description:
+#         - Description 1.
+#         - Description 2.
+#         - title: Description 3.
+#           contents:
+#             - Sub-description 1.
+#             - Sub-description 2.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2022
-      items: 
-        - Outstanding Graduate Title (Top 5% in USTC)
-    - year: 2021
-      items: 
-        - Honorary Title of Outstanding Student (Top 5% in USTC)
-    - year: 2019
-      items: 
-        - Gold Award, Outstanding Student Scholarship (Top 5% in School of Physical Sciences, USTC)
-    - year: 2019
-      items: 
-        - Excellent Paper in Freshman Seminar (Top 5% in USTC)
+# - title: Research Experience
+#   type: time_table
+#   contents:
+#     - title: Visiting Researcher
+#       institution: University of Science and Technology of China, Hefei, China
+#       year: April 2023 - 
+#       description:
+#         - Description 1.
+#         - Description 2.
+#         - title: Description 3.
+#           contents:
+#             - Sub-description 1.
+#             - Sub-description 2.
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Atomic, Molecular and Optical Physics
-      items: 
-        - Trapped ions
-        - Cold hybrid ion-atom system
-        - Cold atoms and molecules
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+#     - title: Graduate Student Researcher
+#       institution: University of California at Berkeley, California, U.S.
+#       year: Aug 2022 - Present
+#       description:
+#         - Description 1.
+#         - Description 2.
 
-- title: Skills & Languages
-  type: nested_list
-  contents:
-    - title: Softwares 
-      items: 
-        - Mathematica, Matlab, COMSOL, Solidworks, Eagle, Latex, Lyx, Markdown
+#     - title: Undergraduate Student Research Assistant
+#       institution: University of Science and Technology of China, Hefei, China
+#       year: Sep 2020 - Jun 2022
 
-    - title: Programming 
-      items:
-        - C, Python, Julia
+#     - title: Visiting Student
+#       institution: University of California at Berkeley, California, U.S.
+#       year: Aug 2021 - Nov 2021
+#       description:
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Boxing, Swimming, Skiing, Reading novels, etc.
+# - title: Teaching Experience
+#   type: time_table
+#   contents:
+#     - title: Teaching Assistan to Atomic Physics
+#       institution: University of Science and Technology of China, Hefei, China
+#       year:  Feb 2021 - Jul 2021
+#       description:
+#         - Description 1.
+#         - Description 2.
+
+# # - title: Open Source Projects
+# #   type: time_table
+# #  contents:
+# #    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+# #      year: 2015-now
+# #      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 2022
+#       items: 
+#         - Outstanding Graduate Title (Top 5% in USTC)
+#     - year: 2021
+#       items: 
+#         - Honorary Title of Outstanding Student (Top 5% in USTC)
+#     - year: 2019
+#       items: 
+#         - Gold Award, Outstanding Student Scholarship (Top 5% in School of Physical Sciences, USTC)
+#     - year: 2019
+#       items: 
+#         - Excellent Paper in Freshman Seminar (Top 5% in USTC)
+
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Atomic, Molecular and Optical Physics
+#       items: 
+#         - Trapped ions
+#         - Cold hybrid ion-atom system
+#         - Cold atoms and molecules
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+
+# - title: Skills & Languages
+#   type: nested_list
+#   contents:
+#     - title: Softwares 
+#       items: 
+#         - Mathematica, Matlab, COMSOL, Solidworks, Eagle, Latex, Lyx, Markdown
+
+#     - title: Programming 
+#       items:
+#         - C, Python, Julia
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Boxing, Swimming, Skiing, Reading novels, etc.
